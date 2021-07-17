@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/paulfwatts?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPaulFWatts&screen_name=PaulFWatts)
 
-## I'm a retired IT Professional and mature age University Student
+### I'm a retired IT Professional & Uni Student
 
 - 🔭 I'm currently working on my Computer Science Degree at [UTAS](https://www.utas.edu.au/)
 - 🌱 I’m currently self-learning multiple computer languages
