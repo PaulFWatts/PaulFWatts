@@ -6,9 +6,10 @@
 
 - 🔭 I'm currently working on my Computer Science Degree at [UTAS](https://www.utas.edu.au/)
 - 🌱 I’m currently self-learning multiple computer languages
-- 🌱 Specialising in Python, C, Java, C# and .NET
+- 🌱 Specialising in Go, C, and Python
+- 🌱 Rust and F# are on the learning wish list
 - 👯 I’m looking to collaborate with other students and learners
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love Science and Technology
 
 ### Connect with me:
